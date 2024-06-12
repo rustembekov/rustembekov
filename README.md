@@ -17,11 +17,12 @@
 
 <p align="center">
 
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://www.linkedin.com/in/rustembekov2003/" alt="alsiam"/>
+ <a href="https://www.linkedin.com/in/rustembekov2003/" target="_blank">
+  <img src="https://linkedin.com/in/al-siam" alt="alsiam"/>
  </a>
- <a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
-  <img src="https://t.me/qarapaimm" alt="alsiam"  />
+ <a href="https://t.me/qarapaimm" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="alsiam"  />
+   
   </a> 
 </p>
 <br />
@@ -57,12 +58,12 @@
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Git](https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg)
-![Git](https://profilinator.rishav.dev/skills-assets/django-original.svg)
-![Git](https://profilinator.rishav.dev/skills-assets/gitlab.svg)
-![Git](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg)
-![Git](https://profilinator.rishav.dev/skills-assets/oracle-original.svg)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+    ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+    ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <br/>
 
