@@ -18,7 +18,7 @@
 <p align="center">
 
  <a href="https://www.linkedin.com/in/rustembekov2003/" target="_blank">
-  <img src="https://linkedin.com/in/al-siam" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <a href="https://t.me/qarapaimm" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="alsiam"  />
