@@ -58,6 +58,11 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg)
+![Git](https://profilinator.rishav.dev/skills-assets/django-original.svg)
+![Git](https://profilinator.rishav.dev/skills-assets/gitlab.svg)
+![Git](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg)
+![Git](https://profilinator.rishav.dev/skills-assets/oracle-original.svg)
 
 <br/>
 
