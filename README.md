@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a  IOS application developer   」
+    「 I am a  Android application developer   」
     <br>
     <br>
   </samp>
