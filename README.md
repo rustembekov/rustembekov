@@ -36,7 +36,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: rustembekov2003@gmail.com<br/><br/>
- 📁 &emsp; About my CV [here](https://github.com/rustembekov/rustembekov/blob/main/CV-Rustembekov%20Sabyrzhan.pdf)
+ 📁 &emsp; About my CV [here](https://github.com/rustembekov/rustembekov/blob/main/CV_Sabyrzhan_Rustembekov.pdf)
 
 </p>
 
